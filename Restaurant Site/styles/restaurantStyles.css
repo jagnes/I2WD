@@ -1,0 +1,25 @@
+header {
+	font-family: 'Oswald', sans-serif;
+}
+
+header, footer {
+	background-color: #B22222;
+	text-align: center;
+	color: #FAF0E6;
+}
+
+section {
+	background-color: #FAF0E6;
+}
+
+nav .btn {
+	background-color: #B22222;
+	color: #FAF0E6;
+}
+nav .btn:hover {
+	font-weight: bold;
+}
+
+nav .btn:visited {
+	color: #DEB887
+}
